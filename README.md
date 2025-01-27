@@ -1,16 +1,9 @@
-# swapitemadmin
+# แอปพลิเคชันแลกเปลี่ยนสิ่งของ(ผู้ดูแลระบบ)
 
-A new Flutter project.
+แพลตฟอร์มจัดการข้อมูลของ แอปพลิเคชันแลกเปลี่ยนสิ่งของ โดยผู้ดูแลระบบจะสามารถจัดการข้อมูล ผู้ใช้งาน, โพสต์ ข้อเสนอ, ประวัติการชำระเงิน โดยจะมี 2 แอปพลิเคชัน ดังนี้ [แอปพลิเคชันแลกเปลี่ยนสิ่งของ(ผู้ใช้งาน)]([https://github.com/peerapattop/swapitem]) และ แอปพลิเคชันแลกเปลี่ยนสิ่งของ(ผู้ดูแลระบบ)
 
-## Getting Started
+## 🎥 ตัวอย่างแอปพลิเคชัน
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 ดาวน์โหลดแอปพลิเคชัน
+https://drive.google.com/file/d/1qJxNGFn1LXPaAdN903PIpofYPHMr5nip/view?usp=sharing
