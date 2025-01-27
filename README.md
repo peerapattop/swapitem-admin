@@ -4,7 +4,7 @@
 
 ## 🎥 ตัวอย่างแอปพลิเคชัน
 
-<img src="https://github.com/peerapattop/swapItem/raw/main/assets/images/swapitem-admin.gif" width="200" />
+<img src="https://github.com/peerapattop/swapitem-admin/raw/main/assets/images/swapitem-admin.gif" width="200" />
 
 ## 📥 ดาวน์โหลดแอปพลิเคชัน
 https://drive.google.com/file/d/1qJxNGFn1LXPaAdN903PIpofYPHMr5nip/view?usp=sharing
