@@ -1,8 +1,6 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive",
     "cSpell.words": [
-        "firestore",
-        "vipuid",
-        "รูปภาพผู"
-    ]
+        "allprojects"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
